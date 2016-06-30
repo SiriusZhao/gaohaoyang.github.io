@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HyG
-brief-intro: Front-end Dev Engineer
+title: SiriusZhao
+brief-intro: Hardware Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "http://siriuszhao.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username: gaohaoyang
 linkedIn_username: gaohaoyang
 dribbble_username: 
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 个人文章记录 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
