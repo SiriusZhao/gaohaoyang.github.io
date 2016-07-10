@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "第一篇博文"
-date:   2016-07-10 21:06:05
 categories: Article
 tags: Article Life
 ---
