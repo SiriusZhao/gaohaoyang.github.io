@@ -19,6 +19,3 @@ icon: bookmark
     很痛苦的时候在知乎搜索[人为什么活着呢？](https://book.douban.com/subject/25711748/)的时候其中一个击中我的回答作者推荐的书，但我读来非常晦涩，没有与神对话对我的帮助大。
 
 
-## Comments
-
-{% include comments.html %}
