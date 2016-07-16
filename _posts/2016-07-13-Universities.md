@@ -19,3 +19,15 @@ tags: Article Graduate
 || 108     || Illinois Institute of Technology (IIT) 伊利诺理工学院         ||伊利诺州    ||  公立  || 能达到
 || 108     || Iowa State University (ISU) 爱荷华州立大学                    ||爱荷华州    ||   公立 || 能达到
 || 108     || University of Dayton 代顿大学                                ||俄亥俄州    ||    私立|| 能达到
+|| 108     || University of Oklahoma 俄克拉荷马大学                         ||俄克拉荷马州||    公立|| 能达到
+|| 108     || University of San Francisco (USF) 旧金山大学                  ||加利福尼亚州||    公立|| 没有适合专业
+|| 108     || University of South Carolina  南卡罗来纳大学                  ||南卡罗来纳州||    公立|| 能达到
+|| 108     || University of the Pacific   太平洋大学                       ||加利福尼亚州||    私立|| 没有适合专业
+|| 115     || Clarkson University 克拉克森大学                             ||纽约州      ||    私立|| 能达到
+|| 115     || Duquesne University 杜肯大学                                ||宾夕法尼亚州 ||    私立|| 没有适合专业
+|| 115     || Temple University  天普大学                                ||宾夕法尼亚州 ||    私立|| GPA3.0，达不到
+|| 115     || University of Kansas  堪萨斯大学                               ||堪萨斯州 ||    公立|| GPA3.0，达不到
+|| 115     || University of St. Thomas-Minnesota   圣托马斯大学              ||明尼苏达州 ||    公立|| 能达到，GPA2.7
+|| 115     || University of Utah    犹他大学                               ||犹他州      ||    公立|| GPA3.0，达不到
+
+
