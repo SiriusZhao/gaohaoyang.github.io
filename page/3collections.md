@@ -10,7 +10,7 @@ icon: bookmark
 
 ## 最近读的书
 
-* [与神对话2]https://book.douban.com/subject/26575975/)
+* [与神对话2](https://book.douban.com/subject/26575975/)
 
 * [灵性的自我开战](https://book.douban.com/subject/25711748/)
 
