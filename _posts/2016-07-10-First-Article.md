@@ -16,4 +16,9 @@ tags: Article Life
 
 那么，一段新的旅途将要开始了！
 
+## 201608024更新
+
+上午例行逛NGA，就看到了这张承载了太多记忆的图片，就顺便插入到第一篇日志里吧。
+
+
 ![Alt text](http://i.imgur.com/GbZ1EV2.jpg "Optional title")
