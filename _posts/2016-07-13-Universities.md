@@ -10,6 +10,7 @@ tags: Article Graduate Universities
 
 
 || 排名     ||    学校                                                    ||   所在州    ||  性质  ||要求
+|| 47      || University of California Ivain 加州大学尔湾分校              ||  加利福尼亚州  ||  公立 || 能达到
 || 102     || Auburn University 奥本大学                                  ||  阿拉巴马州  ||  公立 || 能达到
 || 103     || University of Missouri-Columbia (Mizzou) 密苏里大学         ||  密苏里州    ||  公立 || GPA3.0，达不到
 || 103     || University of Nebraska Lincoln 内布拉斯加大学林肯校区         ||内布拉斯加州  ||  公立 ||能达到
