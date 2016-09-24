@@ -2,7 +2,7 @@
 layout: post
 title:  "学校查询"
 categories: Article
-tags: Article Graduate
+tags: Article Graduate Universities
 ---
 
 * content
