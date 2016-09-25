@@ -21,7 +21,7 @@ tags: Article Graduate Universities
 || 108     || Iowa State University (ISU) 爱荷华州立大学                    ||爱荷华州    ||   公立 || 能达到
 || 108     || University of Dayton 代顿大学                                ||俄亥俄州    ||    私立|| 能达到
 || 108     || University of Oklahoma 俄克拉荷马大学                         ||俄克拉荷马州||    公立|| 能达到
-|| 108     || University of San Francisco (USF) 旧金山大学                  ||加利福尼亚州||    公立|| 没有适合专业
+|| 108     || University of San Francisco (USF) 旧金山大学                  ||加利福尼亚州||    公立|| 能达到
 || 108     || University of South Carolina  南卡罗来纳大学                  ||南卡罗来纳州||    公立|| 能达到
 || 108     || University of the Pacific   太平洋大学                       ||加利福尼亚州||    私立|| 没有适合专业
 || 115     || Clarkson University 克拉克森大学                             ||纽约州      ||    私立|| 能达到
@@ -33,7 +33,7 @@ tags: Article Graduate Universities
 || 121     || University of Arizona (Tucson)  亚利桑那大学                ||亚利桑那州      ||    公立|| GPA3.0，达不到
 || 121     || University of California-Riverside   加州大学里弗赛德分校    ||加利福尼亚州      ||    公立|| 能达到
 || 123     || The Catholic University of America    美国天主教大学         ||芝加哥      ||    私立|| 能达到
-|| 123     || DePaul University (Chicago) 德保罗大学                      ||伊利诺伊州      ||  私立|| 没有适合专业
+|| 123     || DePaul University (Chicago) 德保罗大学                      ||伊利诺伊州      ||  私立|| 能达到
 || 123     || Michigan Technological University (MTU)     密歇根理工大学    ||密歇根州      ||  公立|| 待定
 || 123     || Seton Hall University      西顿霍尔大学（南奥兰治）            ||伊利诺伊州      ||  私立|| 没有适合专业
 || 123     || Colorado State University (CSU)      科罗拉多州立大学            ||科罗拉多州      ||  公立|| 待定
