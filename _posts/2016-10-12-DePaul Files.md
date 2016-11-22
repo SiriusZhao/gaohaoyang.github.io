@@ -48,7 +48,7 @@ Chicago, IL 60604
 zhaokaifei1993@gmail.com
 Zkf00700
 
-ECE:zhaokaifei1993
+ECE:zhaokaifei1993@gmail.com
 opkasd111
 
 
@@ -58,3 +58,4 @@ opkasd111
 
 
 
+zimohjp
